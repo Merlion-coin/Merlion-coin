@@ -1,1 +1,1 @@
-# marina-coin
+# Merlion-coin
